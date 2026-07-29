@@ -1,0 +1,2 @@
+avarage: 70
+class passed!
